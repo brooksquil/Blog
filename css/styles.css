@@ -1,0 +1,33 @@
+body {
+	background-color: #A2BEA5;
+}
+
+.wrapper {
+	background-color: #524632;
+	width: 80%;
+	margin: 0 auto;
+}
+
+h1, h3, pre {
+	color: #CCBCC8;
+	text-align: center;
+}
+
+h1 {
+	text-transform: uppercase;
+	text-align: center;
+}
+
+main {
+	width: 85%;
+	color: #A2BEA5;
+	padding: 5px;
+	margin-left: 70px;
+	text-align: justify;
+}
+
+footer {
+	text-align: center;
+	font-size: 12px;
+	color: #A2BEA5;
+	padding: 10px
