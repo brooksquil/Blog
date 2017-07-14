@@ -1,30 +1,38 @@
 body {
-	background-color: #A2BEA5;
+	background-color: #524632;
+	display: flex; 
 }
 
 .wrapper {
-	background-color: #524632;
-	width: 80%;
-	margin: 0 auto;
+	background-color: #A2BEA5;
+	padding: 50px;
+	display: flex;
+	text-align: center;
 }
 
-h1, h3, pre {
-	color: #CCBCC8;
-	text-align: center;
+.block {
+	background-color: #524632
 }
 
 h1 {
+	color: #A2BEA5;
 	text-transform: uppercase;
 	text-align: center;
+	padding: 15px;
 }
 
-main {
-	width: 85%;
+h3 {
 	color: #A2BEA5;
-	padding: 5px;
-	margin-left: 70px;
-	text-align: justify;
+	text-transform: uppercase;
+	padding: 20px;
 }
+
+p  { 
+	color: #A2BEA5;
+	text-align: justify;
+	margin: 20px;
+}
+
 
 footer {
 	text-align: center;
